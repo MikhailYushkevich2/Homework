@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffe5;
+    padding: 10px;
+    padding-left: 450px;
+    padding-top: 40px;
+}
+
+.Text {
+    border-bottom: solid 5px orange;
+    border-left: solid 5px orange;
+    background-color: rgb(193, 156, 8);
+    color: #d81828;
+    width: 45%;
+    padding: 10px;
+}
+
+.img {
+    border: double 10px #FF9AA2;
+    padding: 0px;
+}
