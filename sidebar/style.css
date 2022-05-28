@@ -13,16 +13,16 @@ aside {
     width: 20%;
     height: 100%;
     position: fixed;
-    background-color: #33383e;
+    background-color: #585e65;
 }
 
 .aside__header {
-    background-image: url(img/BG.jpg);
+    background-image: url(https://www.zastavki.com/pictures/1366x768/2017Nature___Volcanoes_Volcanic_eruption_Colima__Mexico_113552_24.jpg);
     background-size: cover;
 }
 
 main {
-    background-color: rgba(238, 238, 238, 0.692);
+    background-color: rgb(255, 255, 255);
     flex-basis: 80%;
     height: 1000px;
     flex-grow: 1;
@@ -65,7 +65,7 @@ main {
 
 .aside__list li a {
     text-decoration: none;
-    color: #aeafb3;
+    color: #ffffff;
     display: flex;
 }
 
